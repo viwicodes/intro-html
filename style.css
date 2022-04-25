@@ -28,8 +28,9 @@ body:after {
 
 h1 {
     font-size: 48pt;
-    font-family: 'Permanent Marker', cursive;
-    color: rgb(28, 33, 104);
+    font-family: 'Open Sans';
+    font-weight: 500;
+    color: #000;
     transition: background-size 0.25s ease-in;        
 }
 
